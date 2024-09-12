@@ -19,7 +19,7 @@ function Precos(){
                             <h2>R$ 0,00</h2>
                             <p>Orçamento gratuito</p>
 
-                            <a href="https://wa.me/17991849186?text=Olá, quero saber mais" className="btn btn-lg btn-outline-primary">Fale com a gente</a>
+                            <a href="https://wa.me/17992523805?text=Olá, quero saber mais" className="btn btn-lg btn-outline-primary">Fale com a gente</a>
                         </div>
                     </div>
                 </div>

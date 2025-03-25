@@ -6,9 +6,9 @@ function Footer(){
     return <section id="footer">    
       <div>
             <ul className="list-unstyled list-inline social text-center">
-                <li className="list-inline-item"><a href="https://wa.me/17992523805?text=Olá, tenho interesse e quero saber mais"><i className="fa fa-whatsapp fa-4x"></i></a></li>
-                <li className="list-inline-item"><a href="https://www.instagram.com/nhsoftware/"><i className="fa fa-instagram fa-4x"></i></a></li>						
-                <li className="list-inline-item"><a href="mailto:contato.nhsoftware@gmail.com" target="_blank"><i className="fa fa-envelope fa-4x"></i></a></li>
+                <li className="list-inline-item"><a href="https://wa.me/17992523805?text=Olá, tenho interesse e quero saber mais"><i className="fab fa-whatsapp fa-4x"></i></a></li>
+                <li className="list-inline-item"><a href="https://www.instagram.com/nhsoftware/"><i className="fab fa-instagram fa-4x"></i></a></li>						
+                <li className="list-inline-item"><a href="mailto:contato.nhsoftware@gmail.com" target="_blank"><i className="far fa-envelope fa-4x"></i></a></li>
             </ul>
 	    </div>
       <a href="mailto:contato.nhsoftware@gmail.com">contato.nhsoftware@gmail.com</a>
